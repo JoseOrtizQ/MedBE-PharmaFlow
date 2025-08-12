@@ -1,0 +1,29 @@
+{
+  "name": "medbe-pharmaflow",
+  "version": "1.0.0",
+  "description": "Backend API for the MedBE PharmaFlow healthcare inventory management system.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseOrtizQ/MedBE-PharmaFlow.git"
+  },
+  "keywords": [
+    "backend",
+    "api",
+    "nodejs",
+    "express",
+    "healthcare",
+    "inventory",
+    "management",
+    "pharmaceutics"
+  ],
+  "author": "José Ortiz <joseortizgarciaq.ca@gmail.com> (https://github.com/JoseOrtizQ)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseOrtizQ/MedBE-PharmaFlow/issues"
+  },
+  "homepage": "https://github.com/JoseOrtizQ/MedBE-PharmaFlow#readme"
+}
